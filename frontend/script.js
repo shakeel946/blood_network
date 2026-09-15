@@ -35,9 +35,9 @@ function renderLogin() {
     <section class="auth-layout">
       <div class="hero-card auth-hero">
         <div>
-          <span class="eyebrow">♥ Community powered</span>
+          <span class="eyebrow">Trusted donor community</span>
           <h1>Every donor can make a difference.</h1>
-          <p>Blood Network gives donors a simple, secure place to manage their information and availability.</p>
+          <p>One secure place to manage your donor profile, availability, and donation history — designed for a faster, calmer experience.</p>
           <div class="hero-points">
             <div class="hero-point"><i>✓</i><span>Secure donor profiles</span></div>
             <div class="hero-point"><i>✓</i><span>Availability at a glance</span></div>
