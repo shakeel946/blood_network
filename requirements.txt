@@ -6,3 +6,4 @@ pydantic[email]>=2.0,<3
 itsdangerous>=2.2,<3
 python-multipart>=0.0.20,<1
 psycopg[binary]
+psycopg2-binary
